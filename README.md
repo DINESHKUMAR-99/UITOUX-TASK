@@ -1,1 +1,1 @@
-Add the  editable new row into the existing HTML table when we click the ADD button in the bottom of the page using react and reactstrap.
+Add the  editable new row into the existing HTML table when we click the ADD button in the bottom of the page using react and reactstrap.if the button clicked in each time the new row added into the table.
